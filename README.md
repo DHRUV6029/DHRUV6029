@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Patel</h1>
 <h3 align="center">Software Engineer with passion for Cloud and Data</h3>
 
-- 🌱 I’m currently learning **Fine Tuning LLMs with PEFT and building applications with LLms**
+- 🌱 I’m currently learning **Fine Tuning LLMs with PEFT and building applications with LLMs**
 
 - 💬 Ask me about **Cloud Computing , Data Structure & Algorithms**
 
